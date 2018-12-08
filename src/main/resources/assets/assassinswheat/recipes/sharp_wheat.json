@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+          [
+            "xxx",
+            "yzy",
+            "xxx"
+          ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wheat"
+    },
+    "y":
+    {
+      "item": "minecraft:string"
+    },
+    "z":
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result":
+  {
+    "item": "assassinswheat:sharp_wheat",
+    "count": 1
+  }
+}

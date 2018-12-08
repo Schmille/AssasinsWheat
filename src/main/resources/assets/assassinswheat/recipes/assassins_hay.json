@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+          [
+            "xxx",
+            "wzw",
+            "yyy"
+          ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:hay_block"
+    },
+    "y":
+    {
+      "item": "minecraft:string"
+    },
+    "z":
+    {
+      "item": "minecraft:feather"
+    },
+    "w":
+    {
+      "item": "minecraft:wool",
+      "data": 32767
+    }
+  },
+  "result":
+  {
+    "item": "assassinswheat:block_assassins_hay",
+    "count": 3
+  }
+}

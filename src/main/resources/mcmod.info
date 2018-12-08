@@ -1,0 +1,21 @@
+[
+{
+  "modid": "assassinswheat",
+  "name": "AssassinsWheat",
+  "description": "A first time modding project to add wheat based items and blocks.",
+  "version": "1.0_Alpha",
+  "mcversion": "1.12.1",
+  "url": "https://github.com/Schmille/AssassinsWheat",
+  "updateUrl": "",
+  "authorList": [
+    "Schmille"
+  ],
+  "credits": "\"Hawk Screech Valley Sound\" by Mike Koenig used without modifications under Creative Commons (CC BY 3.0). Found at http://soundbible.com/1845-Hawk-Screech-Valley.html\n License can be found here: https://creativecommons.org/licenses/by/3.0/legalcode",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
